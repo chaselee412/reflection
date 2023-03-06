@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82359b66-86cd-48cd-a6a6-2615e2c72bfd" name="Changes" comment="The reflection first submit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection01/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection01/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection01/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection02/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection03/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection03/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection04/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection04/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/reflection04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prop.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MdeH62Y5EM2d6vShzMHUIi5Z6k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.reflection04.ReflectDemo1">
+    <configuration name="ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.reflection01.ReflectDemo1" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reflection01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.reflection04.ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.reflection04.ReflectDemo1" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reflection04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.reflection04.ReflectDemo1" />
+        <item itemvalue="Application.ReflectDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82359b66-86cd-48cd-a6a6-2615e2c72bfd" name="Changes" comment="" />
+      <created>1678101797883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678101797883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="The reflection first submit" />
+    <option name="LAST_COMMIT_MESSAGE" value="The reflection first submit" />
+  </component>
+</project>
